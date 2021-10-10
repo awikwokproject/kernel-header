@@ -1,1 +1,0 @@
-cmd_/home/hengker/usr/include/scsi/ufs/.install := /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/scsi/ufs ../include/uapi/scsi/ufs ioctl.h ufs.h; /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/scsi/ufs ./include/generated/uapi/scsi/ufs ; touch /home/hengker/usr/include/scsi/ufs/.install
