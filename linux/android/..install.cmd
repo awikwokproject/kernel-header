@@ -1,0 +1,1 @@
+cmd_/home/hengker/usr/include/linux/android/.install := /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/linux/android ../include/uapi/linux/android binder.h binderfs.h; /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/linux/android ./include/generated/uapi/linux/android ; touch /home/hengker/usr/include/linux/android/.install

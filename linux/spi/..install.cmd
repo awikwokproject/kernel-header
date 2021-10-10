@@ -1,0 +1,1 @@
+cmd_/home/hengker/usr/include/linux/spi/.install := /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/linux/spi ../include/uapi/linux/spi spidev.h; /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/linux/spi ./include/generated/uapi/linux/spi ; touch /home/hengker/usr/include/linux/spi/.install

@@ -1,0 +1,1 @@
+cmd_/home/hengker/usr/include/linux/hsi/.install := /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/linux/hsi ../include/uapi/linux/hsi cs-protocol.h hsi_char.h; /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/linux/hsi ./include/generated/uapi/linux/hsi ; touch /home/hengker/usr/include/linux/hsi/.install

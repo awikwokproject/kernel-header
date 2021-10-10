@@ -1,0 +1,1 @@
+cmd_/home/hengker/usr/include/linux/wimax/.install := /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/linux/wimax ../include/uapi/linux/wimax i2400m.h; /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/linux/wimax ./include/generated/uapi/linux/wimax ; touch /home/hengker/usr/include/linux/wimax/.install

@@ -1,0 +1,1 @@
+cmd_/home/hengker/usr/include/linux/nfsd/.install := /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/linux/nfsd ../include/uapi/linux/nfsd cld.h debug.h export.h nfsfh.h stats.h; /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/linux/nfsd ./include/generated/uapi/linux/nfsd ; touch /home/hengker/usr/include/linux/nfsd/.install
