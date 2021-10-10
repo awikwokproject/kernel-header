@@ -1,1 +1,0 @@
-cmd_/home/hengker/usr/include/misc/.install := /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/misc ../include/uapi/misc cxl.h; /bin/bash ../scripts/headers_install.sh /home/hengker/usr/include/misc ./include/generated/uapi/misc ; touch /home/hengker/usr/include/misc/.install
